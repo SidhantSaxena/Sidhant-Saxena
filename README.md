@@ -84,15 +84,10 @@ This project classifies music into 10 different genres (pop, blues, rock, jazz, 
 ---
 
 ## Achievements
-- **1673 Rating** - CodeChef
 - **Winner:** Code-Blaster Coding Challenge 2020 (IEEE CS GCET Sponsored)
 - **Winner:** Code-e-thon Coding Challenge 2022 (College Tech Fest Event)
 - **Winner:** NCC CAMP Debate
-
----
-
-## Certifications
-
+- **1673 Rating** - CodeChef
 - **Python (5*)** - HackerRank
 - **Problem Solving (6*)** - HackerRank
 - **SQL (4*)** - HackerRank
