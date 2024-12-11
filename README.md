@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-I am a recent B.Tech graduate in Computer Science and Engineering specializing in Artificial Intelligence and Machine Learning, currently pursuing M.Tech in Data Science from IIT Palakkad. Passionate about Software Development, Data Science, Machine Learning, and AI, I am eager to contribute to innovative projects and collaborate with like-minded professionals.
+I am a recent B.Tech graduate in Computer Science and Engineering specializing in Artificial Intelligence and Machine Learning, completed in 2024. I qualified for GATE 2024 (AIR 1047) and currently pursuing M.Tech in Data Science from IIT Palakkad. Passionate about Software Development, Data Science, Machine Learning, and AI, I am eager to contribute to innovative projects and collaborate with like-minded professionals.
 
 ---
 
@@ -25,16 +25,16 @@ I am a recent B.Tech graduate in Computer Science and Engineering specializing i
 - Flask
 - TensorFlow
 - Keras
+- PyTorch
 - PyQt5
 
 ### Tools and Technologies
 - MongoDB
 - MySQL
+- PostgresSQL
 
 ### Other Skills
 - Data Analysis
-- Machine Learning
-- Deep Learning
 - Web Technology
 
 ---
