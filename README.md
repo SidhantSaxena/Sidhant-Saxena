@@ -73,7 +73,7 @@ This project classifies music into 10 different genres (pop, blues, rock, jazz, 
 ### Yelp Rating Prediction
 - Developed a model to predict Yelp ratings (1-5) using BERT embeddings and TF-IDF (unigram + bigram).
 - Built an ensemble of Logistic Regression, KNN, and Gaussian Naive Bayes classifiers.
-- Achieved high accuracy by optimizing hyperparameters and leveraging ensemble learning.
+- optimized hyperparameters for all base learners for ensemble learning.
 - Conducted error analysis to refine predictions and understand misclassifications.
 
 ### Bank Management System
