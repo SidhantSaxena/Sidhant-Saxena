@@ -67,21 +67,31 @@ I am a recent B.Tech graduate in Computer Science and Engineering specializing i
 ## Projects
 
 ### Hand Sign and Gesture Recognition
-- Developed a system using CNN (AlexNet) for recognizing A-Z signs after image preprocessing.
-- Implemented LSTM for dynamic gestures like "hello" and "Thank you".
-- Integrated models into a web UI using Flask.
+- **Static Signs (A-Z)**: Using **CNN (AlexNet)** for classification of hand signs after image preprocessing.
+- **Dynamic Gestures (e.g., "hello", "thank you")**: Implemented **LSTM** for recognizing gestures over time by learning temporal dependencies in hand movements.
+**Mediapipe** is integrated for hand tracking, helping to detect and normalize hand positions for both static and dynamic gestures:
+- **CNN + Mediapipe**: Used for static alphabet signs.
+- **LSTM + Mediapipe**: Used for dynamic gestures.
+- The system is integrated into a **Flask web UI**, allowing real-time hand sign and gesture recognition.
 
 ### Music Genre Classification
-- Utilized sklearn library and MFCC for feature extraction.
-- Built an ANN model for classifying music genres.
-- Developed a GUI for the application using PyQt5.
+This project classifies music into 10 different genres (pop, blues, rock, jazz, etc.) using the **GTZAN dataset**. The approach includes:
+- **Dataset**: The **GTZAN dataset** with 1,000 audio tracks (30 seconds each) across 10 genres.
+- **Feature Extraction**: **MFCC (Mel-Frequency Cepstral Coefficients)** was used for extracting features from the audio files.
+- **Data Analysis**: Performed **exploratory data analysis (EDA)** and statistical analysis on the MFCC features, and visualized feature distributions for better insights.
+- **Model**: Built an **ANN (Artificial Neural Network)** using the sklearn library to classify the genres based on the extracted MFCC features.
+- **GUI**: Developed a **GUI using PyQt5**, allowing users to upload audio files and predict the music genre in real-time.
 
-### Oral Cancer Detection
-- Built a CNN model integrated with a GUI capable of detecting cancer from input images.
+### Yelp Rating Prediction
+- Developed a model to predict Yelp ratings (1-5) using BERT embeddings and TF-IDF (unigram + bigram).
+- Built an ensemble of Logistic Regression, KNN, and Gaussian Naive Bayes classifiers.
+- Achieved high accuracy by optimizing hyperparameters and leveraging ensemble learning.
+- Conducted error analysis to refine predictions and understand misclassifications.
 
 ### Bank Management System
 - Designed a system using SQL and Java with a Swing-based UI.
 - Leveraged the file system in C for data management.
+- Incorporated features for account management, transaction tracking, and reporting.
 
 ---
 
