@@ -14,29 +14,16 @@ I am a recent B.Tech graduate in Computer Science and Engineering specializing i
 ## Skills
 
 ### Programming Languages
-- Python
-- Java
-- C/C++
-- JavaScript
-- SQL
-- HTML
+- Python, Java, C/C++, JavaScript, SQL, HTML
 
 ### Frameworks and Libraries
-- Flask
-- TensorFlow
-- Keras
-- PyTorch
-- Git
-- PyQt5
+- Flask, TensorFlow, Keras, PyTorch, Git, PyQt5
 
 ### Tools and Technologies
-- MongoDB
-- MySQL
-- PostgresSQL
+- MongoDB, MySQL, PostgresSQL
 
 ### Other Skills
-- Data Analysis
-- Web Technology
+- Data Analysis, Web Technology
 
 ---
 
