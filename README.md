@@ -26,6 +26,7 @@ I am a recent B.Tech graduate in Computer Science and Engineering specializing i
 - TensorFlow
 - Keras
 - PyTorch
+- Git
 - PyQt5
 
 ### Tools and Technologies
