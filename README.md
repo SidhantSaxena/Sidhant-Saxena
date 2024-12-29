@@ -67,6 +67,12 @@ This project classifies music into 10 different genres (pop, blues, rock, jazz, 
 - optimized hyperparameters for all base learners for ensemble learning.
 - Conducted error analysis to refine predictions and understand misclassifications.
 
+### Football Objects Detection
+
+- Objective: Developed a real-time object detection system to identify key elements in football gameplay, including players, the football, and referees, using YOLOv11.
+- Technology Stack: YOLOv11, Python, OpenCV, TensorFlow/PyTorch.
+- Dataset: Curated and annotated a dataset consisting of football match footage, ensuring diverse scenarios and lighting conditions for robust detection.
+
 ### Bank Management System
 - Designed a system using SQL and Java with a Swing-based UI.
 - Leveraged the file system in C for data management.
