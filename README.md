@@ -44,7 +44,7 @@ I am a passionate and driven individual with a strong foundation in Computer Sci
 ## Projects
 
 ### Hand Sign and Gesture Recognition
-- **Static Signs (A-Z)**: Using **CNN (AlexNet)** for classification of hand signs after image preprocessing.
+- **Static Signs (A-Z)**: Using **CNN+openCV HandDetector** for classification of hand signs after image preprocessing.
 - **Dynamic Gestures (e.g., "hello", "thank you")**: Implemented **LSTM** for recognizing gestures over time by learning temporal dependencies in hand movements.
 **Mediapipe** is integrated for hand tracking, helping to detect and normalize hand positions for both static and dynamic gestures:
 - **CNN + Mediapipe**: Used for static alphabet signs.
