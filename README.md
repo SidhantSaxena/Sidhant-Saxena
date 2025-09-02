@@ -7,9 +7,9 @@
 ---
 
 # 💫 About Me:
-I am a passionate and driven individual with a strong foundation in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. After graduating in 2024, I achieved a commendable **AIR of 1047 in GATE 2024**, paving the way for my **M.Tech in Data Science at IIT Palakkad**.<br><br>  
+I am a passionate and driven individual with a strong foundation in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. After graduating in 2024, I achieved a commendable **AIR of 1047 in GATE 2024**, paving the way for my **M.Tech in Data Science at IIT Palakkad**.<br>
 My passion lies in **Software Development, Data Science, Machine Learning, and AI**, with a strong foundation in engineering principles. I thrive on solving complex problems, building real-world systems, and contributing to innovative projects. My journey includes diverse projects, hands-on work with cutting-edge technologies, and excelling in both academic and extracurricular challenges.  
-
+<br>
 I am currently interning at **Bosch Global Software Technologies**, where I work on **continual pretraining of LLMs with multimodal learning**, exploring advanced **vision-language alignment techniques**. I am eager to collaborate with like-minded professionals to drive technological advancements and create impactful solutions.
 
 ---
