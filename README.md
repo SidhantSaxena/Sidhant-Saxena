@@ -7,88 +7,122 @@
 ---
 
 # 💫 About Me:
-I am a passionate and driven individual with a strong foundation in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. After graduating in 2024, I achieved a commendable AIR of 1047 in GATE 2024, paving the way for my M.Tech in Data Science at IIT Palakkad.<br><br>With a keen interest in Software Development, Data Science, and AI, I thrive on solving complex problems and contributing to innovative projects. My journey includes building diverse projects, gaining hands-on experience in cutting-edge technologies, and excelling in academic and extracurricular challenges. I am eager to collaborate with like-minded professionals to drive technological advancements and create impactful solutions.
+I am a passionate and driven individual with a strong foundation in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning. After graduating in 2024, I achieved a commendable **AIR of 1047 in GATE 2024**, paving the way for my **M.Tech in Data Science at IIT Palakkad**.<br><br>  
+My passion lies in **Software Development, Data Science, Machine Learning, and AI**, with a strong foundation in engineering principles. I thrive on solving complex problems, building real-world systems, and contributing to innovative projects. My journey includes diverse projects, hands-on work with cutting-edge technologies, and excelling in both academic and extracurricular challenges.  
 
+I am currently interning at **Bosch Global Software Technologies**, where I work on **continual pretraining of LLMs with multimodal learning**, exploring advanced **vision-language alignment techniques**. I am eager to collaborate with like-minded professionals to drive technological advancements and create impactful solutions.
+
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/mediapipe-%2300A0FF.svg?style=for-the-badge&logo=google&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-%23009B77.svg?style=for-the-badge&logo=chainlink&logoColor=white) ![Mlflow](https://img.shields.io/badge/Mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Prefect](https://img.shields.io/badge/Prefect-%23192A56.svg?style=for-the-badge&logo=prefect&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ---
 
-## Education
+## 🎓 Education
 
 - **M.Tech in Data Science**  
-  Indian Institute of Technology Palakkad (2024 - 2026)
+  *Indian Institute of Technology Palakkad (2024 - 2026)*  
+  CGPA: 8.73 (till Sem 1-2)
 
 - **B.Tech in Computer Science and Engineering (AI and ML)**  
-  Jawaharlal Nehru Technological University (2020 - 2024)  
-  **CGPA:** 8.14
+  *Jawaharlal Nehru Technological University, Hyderabad (2020 - 2024)*  
+  Geethanjali College of Engineering and Technology  
+  CGPA: 8.14  
+  - President, CodeWarrior Club (Competitive Programming)  
+  - Executive, AIML Club  
 
 - **Foundational Certificate in Programming and Data Science**  
-  Indian Institute of Technology Madras (2021 - 2022)
+  *Indian Institute of Technology Madras (2021 - 2022)*  
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Trainee at Cantilever Labs  
-**Location:** Hyderabad, Telangana  
-**Duration:** Sept 2022 - Nov 2022
+### Intern – Bosch Global Software Technologies  
+**Bengaluru, Karnataka | Jul ’25 – Present**  
+- Working on **continual pretraining of Large Language Models (LLMs)** with a focus on enhancing their **visual reasoning capabilities**.  
+- Exploring **multimodal learning** techniques such as Vision Transformers (ViT), LoRA adapters, cross-attention fusion, token merging, and C-ROPE positional encoding.  
+- Leveraging computer vision methods like **OCR, contour detection, edge detection, and axis-scale extraction** to map plot components (axes, legends, markers) into structured data.  
 
-- Presented data in visually appealing and simple methods for end users.
-- Applied statistical analyses and ML algorithms to extract insights and identify improvement opportunities.
-
----
-
-## Projects
-
-### Hand Sign and Gesture Recognition
-- **Static Signs (A-Z)**: Using **CNN+openCV HandDetector** for classification of hand signs after image preprocessing.
-- **Dynamic Gestures (e.g., "hello", "thank you")**: Implemented **LSTM** for recognizing gestures over time by learning temporal dependencies in hand movements.
-**Mediapipe** is integrated for hand tracking, helping to detect and normalize hand positions for both static and dynamic gestures:
-- **CNN + Mediapipe**: Used for static alphabet signs.
-- **LSTM + Mediapipe**: Used for dynamic gestures.
-- The system is integrated into a **Flask web UI**, allowing real-time hand sign and gesture recognition.
-
-### Music Genre Classification
-This project classifies music into 10 different genres (pop, blues, rock, jazz, etc.) using the **GTZAN dataset**. The approach includes:
-- **Dataset**: The **GTZAN dataset** with 1,000 audio tracks (30 seconds each) across 10 genres.
-- **Feature Extraction**: **MFCC (Mel-Frequency Cepstral Coefficients)** was used for extracting features from the audio files.
-- **Data Analysis**: Performed **exploratory data analysis (EDA)** and statistical analysis on the MFCC features, and visualized feature distributions for better insights.
-- **Model**: Built an **ANN (Artificial Neural Network)** using the sklearn library to classify the genres based on the extracted MFCC features.
-- **GUI**: Developed a **GUI using PyQt5**, allowing users to upload audio files and predict the music genre in real-time.
-
-### Yelp Rating Prediction
-- Developed a model to predict Yelp ratings (1-5) using BERT embeddings and TF-IDF (unigram + bigram).
-- Built an ensemble of Logistic Regression, KNN, and Gaussian Naive Bayes classifiers.
-- optimized hyperparameters for all base learners for ensemble learning.
-- Conducted error analysis to refine predictions and understand misclassifications.
-
-### Football Objects Detection
-
-- Objective: Developed a real-time object detection system to identify key elements in football gameplay, including players, the football, and referees, using YOLOv11.
-- Technology Stack: YOLOv11, Python, OpenCV, TensorFlow/PyTorch.
-- Dataset: Curated and annotated a dataset consisting of football match footage, ensuring diverse scenarios and lighting conditions for robust detection.
-
-### Bank Management System
-- Designed a system using SQL and Java with a Swing-based UI.
-- Leveraged the file system in C for data management.
-- Incorporated features for account management, transaction tracking, and reporting.
+### Trainee – Cantilever Labs  
+**Hyderabad, Telangana | Sept ’22 – Nov ’22**  
+- Presented data in visually appealing methods for end users.  
+- Applied **statistical analysis and ML algorithms** to extract insights and identify improvements.  
 
 ---
 
-## Achievements
-- **Winner:** Code-Blaster Coding Challenge 2020 (IEEE CS GCET Sponsored)
-- **Winner:** Code-e-thon Coding Challenge 2022 (College Tech Fest Event)
-- **Winner:** NCC CAMP Debate
-- **1673 Rating** - CodeChef
-- **Python (5*)** - HackerRank
-- **Problem Solving (6*)** - HackerRank
-- **SQL (4*)** - HackerRank
-- **Java (5*)** - HackerRank
-- **C/C++ (4*)** - HackerRank
+## 🚀 Projects
+
+### Hand Sign and Gesture Recognition  
+- **Static Signs (A-Z):** CNN + MediaPipe.  
+- **Dynamic Gestures (hello, thank you):** LSTM + MediaPipe.  
+- Built **Flask web UI** for real-time recognition.  
+- Added interactive **JavaScript logic for ASL learning**.  
+🔗 [Dynamic Signs](https://github.com/SidhantSaxena/Hand_Sign_Recognition) | [Static Signs](https://github.com/SidhantSaxena/ASL_Teaching_Tool)
 
 ---
 
-Feel free to reach out to me via email or LinkedIn for collaboration or opportunities!
+### LLM Based Call Analysis  
+- Transcript analysis system to extract **customer service insights**.  
+- Integrated **LangChain** for LLM workflow orchestration.  
+- Implemented:  
+  - **Real-time chat analysis** (Dockerized, MLflow + Prefect integration).  
+  - **Deferred analysis** for uploaded chat histories.  
+🔗 [Real-time Analysis](https://github.com/SidhantSaxena/nlp_customer_service) | [Deferred Analysis](https://github.com/SidhantSaxena/llm_call_analysis)
+
+---
+
+### Secure ID-based User Authentication using Hand Signs  
+- Built with **FastAPI + Streamlit**.  
+- Features:  
+  - OCR-based ID verification.  
+  - Face comparison (SSIM).  
+  - Video OTP validation via **hand signs (OpenCV)**.  
+  - Async processing with **Ray Serve**.  
+  - Load testing with **Locust (1–100 users)**.  
+🔗 [Project Link](https://github.com/SidhantSaxena/customer_onboarding_cv)
+
+---
+
+### Football Objects Detection  
+- Built a **YOLOv11 + OpenCV** system for real-time detection of players, ball, referees.  
+- Curated and annotated football footage dataset.  
+🔗 [Project Link](https://github.com/SidhantSaxena/Football_Objects_Detection)
+
+---
+
+### Music Genre Classification  
+- Classified songs into 10 genres using **GTZAN dataset**.  
+- Extracted **MFCC features**, performed **EDA**, and built an **ANN classifier**.  
+- Created a **PyQt5 GUI** for real-time predictions.  
+
+---
+
+### Yelp Rating Prediction  
+- Used **BERT embeddings + TF-IDF**.  
+- Ensemble: Logistic Regression, KNN, Gaussian NB.  
+- Performed **error analysis** to refine predictions.  
+
+---
+
+### Bank Management System  
+- Built with **SQL + Java Swing UI**, plus **C for file system handling**.  
+- Included account management, transactions, and reporting.  
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner – **Code-Blaster Coding Challenge 2020** (IEEE CS GCET Sponsored)  
+- 🥇 Winner – **Code-e-thon 2022** (College Tech Fest Event)  
+- 🥇 Winner – **NCC CAMP Debate**  
+- ⭐ Highest **CodeChef Rating:** 1673  
+- ⭐ HackerRank: Python (5★), Problem Solving (6★), SQL (4★), Java (5★), C/C++ (4★)  
+
+---
+
+📬 *Feel free to reach out to me via email or LinkedIn for collaboration or opportunities!*  
