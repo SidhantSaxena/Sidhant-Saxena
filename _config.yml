@@ -1,3 +1,9 @@
-tilte: Sidhant Saxena
+title: Sidhant Saxena
 logo: Sidhant Saxena_IIt.jpg
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - assets/css/style.css
