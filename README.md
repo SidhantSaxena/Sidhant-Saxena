@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 # Sidhant Saxena
 
 **Email:** [sidhantsxn01@gmail.com](mailto:sidhantsxn01@gmail.com)  
